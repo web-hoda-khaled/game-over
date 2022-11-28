@@ -1,0 +1,17 @@
+
+
+.reg img{
+ width: 20%;
+}
+
+.reg-info{
+ font-size: .9rem;
+}
+
+.reg-bg{
+ background-color: #32383E;
+}
+
+.reg{
+ border-bottom: 1px solid rgb(85, 82, 82);
+}

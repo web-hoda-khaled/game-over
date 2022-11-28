@@ -1,0 +1,6 @@
+.home-header .home-img{
+ background-image: url("./../../../public/img/header.png");
+ height: 50vh;
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
