@@ -81,7 +81,7 @@ export default function Register() {
 
  //fetch Api
   async function sendUser(){
-    const {data}= await axios.post("https://route-egypt-api.herokuapp.com/signup" , user);
+    const {data}= await axios.post("https://sticky-note-fe.vercel.app/signup" , user);
 
 
     setisloading(false)
